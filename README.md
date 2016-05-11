@@ -1,7 +1,5 @@
 # git-branch-demo
+SUPER NEW USER!!
 
-SUPER
-
-NEW 
-
-USER
+ WOOHOO
+ 
